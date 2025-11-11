@@ -1,2 +1,3 @@
 # jee-2027-countdown-calculator
 Simple Python CLI countdown bot for JEE 2027
+made in may 2025 published late due to stored in old device. 😅
